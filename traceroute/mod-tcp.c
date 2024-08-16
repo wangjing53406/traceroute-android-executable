@@ -8,6 +8,7 @@
 
 #include <stdlib.h>
 #include <unistd.h>
+#include <string.h>
 #include <fcntl.h>
 #include <sys/socket.h>
 #include <poll.h>
